@@ -120,7 +120,7 @@
 
 		<preview url="panos/3.tiles/preview.jpg" />
 
-		<image stereo="true" stereolabels="1|2">
+		<image stereo="true" stereolabels="1|2" stereooffset="0.75" prealign="0|220|0">
 			<cube url="panos/3.tiles/%t/%s/l%l/%v/l%l_%t/%s_%v_%h.jpg" multires="512,640,1280" />
 		</image>
 		<hotspot name="spot1" style="skin_hotspotstyle" ath="114.146" atv="13.608" linkedscene="scene_2" />
@@ -139,7 +139,7 @@
 
 		<preview url="panos/4.tiles/preview.jpg" />
 
-		<image stereo="true" stereolabels="1|2">
+		<image stereo="true" stereolabels="1|2" stereooffset="0.75" prealign="0|220|0">
 			<cube url="panos/4.tiles/%t/%s/l%l/%v/l%l_%t/%s_%v_%h.jpg" multires="512,640,1280" />
 		</image>
 		<hotspot name="spot1" style="skin_hotspotstyle" ath="69.174" atv="22.086" linkedscene="scene_3" />
@@ -159,7 +159,7 @@
 
 		<preview url="panos/5.tiles/preview.jpg" />
 
-		<image stereo="true" stereolabels="1|2">
+		<image stereo="true" stereolabels="1|2" stereooffset="0.75" prealign="0|220|0">
 			<cube url="panos/5.tiles/%t/%s/l%l/%v/l%l_%t/%s_%v_%h.jpg" multires="512,640,1280" />
 		</image>
 		<hotspot name="spot1" style="skin_hotspotstyle" ath="172.363" atv="12.109" linkedscene="scene_4" />
@@ -180,7 +180,7 @@
 
 		<preview url="panos/6.tiles/preview.jpg" />
 
-		<image stereo="true" stereolabels="1|2">
+		<image stereo="true" stereolabels="1|2" stereooffset="0.75" prealign="0|220|0">
 			<cube url="panos/6.tiles/%t/%s/l%l/%v/l%l_%t/%s_%v_%h.jpg" multires="512,640,1280" />
 		</image>
 		<hotspot name="spot1" style="skin_hotspotstyle" ath="-100.372" atv="11.967" linkedscene="scene_5" />
@@ -200,7 +200,7 @@
 
 		<preview url="panos/7.tiles/preview.jpg" />
 
-		<image stereo="true" stereolabels="1|2">
+		<image stereo="true" stereolabels="1|2" stereooffset="0.75" prealign="0|220|0">
 			<cube url="panos/7.tiles/%t/%s/l%l/%v/l%l_%t/%s_%v_%h.jpg" multires="512,640,1280" />
 		</image>
 		<hotspot name="spot1" style="skin_hotspotstyle" ath="-32.837" atv="8.981" linkedscene="scene_1" />
@@ -220,7 +220,7 @@
 
 		<preview url="panos/8.tiles/preview.jpg" />
 
-		<image stereo="true" stereolabels="1|2">
+		<image stereo="true" stereolabels="1|2" stereooffset="0.75" prealign="0|220|0">
 			<cube url="panos/8.tiles/%t/%s/l%l/%v/l%l_%t/%s_%v_%h.jpg" multires="512,640,1280" />
 		</image>
 		<hotspot name="spot1" style="skin_hotspotstyle" ath="-146.548" atv="46.909" linkedscene="scene_5" />
@@ -242,7 +242,7 @@
 
 		<preview url="panos/9.tiles/preview.jpg" />
 
-		<image stereo="true" stereolabels="1|2">
+		<image stereo="true" stereolabels="1|2" stereooffset="0.75" prealign="0|220|0">
 			<cube url="panos/9.tiles/%t/%s/l%l/%v/l%l_%t/%s_%v_%h.jpg" multires="512,640,1280" />
 		</image>
 		<hotspot name="spot1" style="skin_hotspotstyle" ath="73.420" atv="13.917" linkedscene="scene_8" />
@@ -264,7 +264,7 @@
 
 		<preview url="panos/10.tiles/preview.jpg" />
 
-		<image stereo="true" stereolabels="1|2">
+		<image stereo="true" stereolabels="1|2" stereooffset="0.75" prealign="0|220|0">
 			<cube url="panos/10.tiles/%t/%s/l%l/%v/l%l_%t/%s_%v_%h.jpg" multires="512,640,1280" />
 		</image>
 		<hotspot name="spot1" style="skin_hotspotstyle" ath="-100.174" atv="15.313" linkedscene="scene_7" />
@@ -283,7 +283,7 @@
 
 		<preview url="panos/11.tiles/preview.jpg" />
 
-		<image stereo="true" stereolabels="1|2">
+		<image stereo="true" stereolabels="1|2" stereooffset="0.75" prealign="0|220|0">
 			<cube url="panos/11.tiles/%t/%s/l%l/%v/l%l_%t/%s_%v_%h.jpg" multires="512,640,1280" />
 		</image>
 		<hotspot name="spot1" style="skin_hotspotstyle" ath="109.977" atv="16.728" linkedscene="scene_7" />
@@ -302,7 +302,7 @@
 
 		<preview url="panos/12.tiles/preview.jpg" />
 
-		<image stereo="true" stereolabels="1|2">
+		<image stereo="true" stereolabels="1|2" stereooffset="0.75" prealign="0|220|0">
 			<cube url="panos/12.tiles/%t/%s/l%l/%v/l%l_%t/%s_%v_%h.jpg" multires="512,640,1280" />
 		</image>
 		<hotspot name="spot1" style="skin_hotspotstyle" ath="29.242" atv="15.636" linkedscene="scene_7" />
@@ -321,7 +321,7 @@
 
 		<preview url="panos/13.tiles/preview.jpg" />
 
-		<image stereo="true" stereolabels="1|2">
+		<image stereo="true" stereolabels="1|2" stereooffset="0.75" prealign="0|220|0">
 			<cube url="panos/13.tiles/%t/%s/l%l/%v/l%l_%t/%s_%v_%h.jpg" multires="512,640,1280" />
 		</image>
 		<hotspot name="spot1" style="skin_hotspotstyle" ath="-28.083" atv="10.635" linkedscene="scene_7" />
